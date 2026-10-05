@@ -1,0 +1,32 @@
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Variables sensibles
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
